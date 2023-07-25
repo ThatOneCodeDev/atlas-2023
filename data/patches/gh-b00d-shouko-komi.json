@@ -1,0 +1,127 @@
+{
+	"id": 197,
+	"name": "Shouko Komi",
+	"description": "Shouko Komi is a protagonist in the manga/anime Komi Can't Communicate (Japanese: Komi-san wa, Komyushō Desu) by Oda Tomohito. She has a communication disorder, making it hard to communicate with others.",
+	"links": {
+		"website": [
+			"https://komisan.fandom.com/wiki/Komi_Shouko"
+		],
+		"subreddit": [
+			"Komi_San_Place",
+			"Komi_san"
+		],
+		"discord": [
+			"gFaQVxCGPV"
+		]
+	},
+	"path": {
+		"3-258": [
+			[
+				256,
+				158
+			],
+			[
+				254,
+				160
+			],
+			[
+				254,
+				166
+			],
+			[
+				252,
+				169
+			],
+			[
+				247,
+				169
+			],
+			[
+				245,
+				171
+			],
+			[
+				245,
+				175
+			],
+			[
+				248,
+				177
+			],
+			[
+				250,
+				177
+			],
+			[
+				251,
+				176
+			],
+			[
+				253,
+				176
+			],
+			[
+				255,
+				178
+			],
+			[
+				255,
+				180
+			],
+			[
+				259,
+				185
+			],
+			[
+				262,
+				185
+			],
+			[
+				266,
+				186
+			],
+			[
+				271,
+				197
+			],
+			[
+				278,
+				197
+			],
+			[
+				278,
+				187
+			],
+			[
+				281,
+				179
+			],
+			[
+				281,
+				157
+			],
+			[
+				276,
+				157
+			],
+			[
+				272,
+				160
+			],
+			[
+				263,
+				160
+			],
+			[
+				261,
+				158
+			]
+		]
+	},
+	"center": {
+		"3-258": [
+			268,
+			173
+		]
+	}
+}
